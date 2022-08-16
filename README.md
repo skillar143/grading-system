@@ -68,3 +68,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 * Clone Repository.
 * GoTo Terminal and type [composer update or composer instal].
 * Rename [env.example] to [.env] only.
+
+![logo!](https://drive.google.com/file/d/1t9ob4Lbf6n71399aomKKh6Kb3k0MTwlV/view?usp=sharing)
